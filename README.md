@@ -27,7 +27,7 @@ To change or add translation rules check the `Translation_rules.py` file.
 The left side words are the english words while the right side words are the hindi words.
 
 ### Contributing
-Contributions to improve the translation rules or expand the lexicon are welcome. Feel free to fork the repository, make improvements, and submit pull requests. For further details - see the [CONTRIBUTING.md](CONTRIBUTING.md) :joy:
+Contributions to improve the translation rules or expand the lexicon are welcome. Feel free to fork the repository, make improvements, and submit pull requests. For further details - see the [CONTRIBUTING.md](CONTRIBUTING.md) 😄
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
